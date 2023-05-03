@@ -2,7 +2,7 @@ import tkinter as tk
 import openai
 
 # Set OpenAI API key
-openai.api_key = "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"
+openai.api_key = "api_key"
 
 # Define function to get ChatGPT response
 def get_response(prompt):
